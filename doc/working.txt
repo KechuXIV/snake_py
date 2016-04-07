@@ -1,0 +1,7 @@
+_Scene: 	no necesita nada de main.py
+AnyKey: 	necesita PLAY_RECT y FONTS
+Apple :		necesita COLORS y BOARD_SIZE
+Control:	-
+Game:		necesita LEVELS, BOARD_SIZE, COLORS, draw_cell, PLAY_RECT
+main:		PLAYRECT, BOARD_SIZE, FONTS, LEVELS
+Snake:		COLORS, queue, KEY_MAPPING, DIRECT_DICT,OPPOSITES, draw_cell, GROWTH_PER_APPLE
